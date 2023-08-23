@@ -1,16 +1,49 @@
-### Hi there 👋
+# astrophile481.github.io
+## My Portfolio Website
+This is my personal portfolio website, where you can find information about me, my education, skills, and projects.
 
-<!--
-**farhnify/Farhnify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
 
-Here are some ideas to get you started:
+## Live Demo
+You can check out the live version of the website [here](https://ALI3Nass.github.io).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Getting Started
+If you want to clone the repository and run the website locally, follow these steps:
+
+* Clone the repository:  git clone https://github.com/ALI3Nass/ALI3Nass.github.io
+* cd ALI3Nass.github.io
+* xdg-open index.html
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+This website was created from scratch by AlienAss using HTML, CSS, and JavaScript. It is a personal project to showcase my skills and experience in web development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
